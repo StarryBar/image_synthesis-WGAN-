@@ -14,14 +14,8 @@ We built our PG-GAN model from MINST, CIFAR-10, Unknown dataset.
 ## Results
 The network would generate fake images during the training process, they are stored in the folders.  
 
-Mnist:
+Mnist:                                  Cifar10:                                      Unknown:
 
 <img src="mnist_dataset/3000.png" width="256px"/>
-
-Cifar10:
-
 <img src="cifar10_dataset/60000.png" width="256px"/>
-
-Unknown:
-
 <img src="xiaojiejie_dataset/3500.png" width="256px"/>
