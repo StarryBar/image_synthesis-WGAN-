@@ -5,7 +5,8 @@ Collaborator: Lifan Wang, Guanhua Chen, Kuan Chen
 
 ## Instruction
 This project aimed to use cifar10, mnist, customized dataset to generate new images
-You can just load the *.ipython file within each folder and reproduce the result. 
+
+Load the *.ipython file within each folder and reproduce the result. 
 
 ## Datasets
 We built our PG-GAN model from MINST, CIFAR-10, Unknown dataset.   
