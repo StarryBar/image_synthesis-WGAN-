@@ -1,5 +1,6 @@
 ## NYU DS-3001 Machine Learning Project.
 Topic: Image_synthesis with DCGAN,WGAN,Relaxed WGAN
+
 Collaborator: Lifan Wang, Guanhua Chen, Kuan Chen  
 
 ## Instruction
