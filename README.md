@@ -3,7 +3,7 @@ This project aimed to use cifar10, mnist, customized dataset to generate new ima
 You can just load the *.ipython file within each folder and reproduce the result. 
 
 ## NYU DS-3001 Machine Learning Project.
-# Image_synthesis with DCGAN,WGAN,Relaxed WGAN
+Topic: Image_synthesis with DCGAN,WGAN,Relaxed WGAN
 Collaborator: Lifan Wang, Guanhua Chen, Kuan Chen  
 
 
