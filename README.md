@@ -9,8 +9,10 @@ This project aimed to use cifar10, celeba, customized dataset to generate new im
 Load the *.ipython file within each folder and reproduce the result. 
 
 ## Datasets
-We built our WGAN model from MINST, CIFAR-10, Comic faces dataset.   
 
+We built our DCGAN/WGAN model from CIFAR-10, Comic faces dataset. 
+
+We built our SAGAN model from  Comic faces dataset, celeba.
 
 ## Results
 The network would generate fake images during the training process, they are stored in the folders.  
