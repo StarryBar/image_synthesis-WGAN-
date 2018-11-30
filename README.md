@@ -17,7 +17,7 @@ We built our SAGAN model from  Comic faces dataset, celeba.
 ## Results
 The network would generate fake images during the training process, they are stored in the folders.  
 
-Cifar10:　　　　　　　　　　　　　　Celeba:　　　　　　　　　　　　　Comic faces:
+Cifar10:　　　　　　　　　　　　　　Comic faces:　　　  　　　　　　　Celeba:
 
 <img src="cifar10_dataset/60000.png" width="256px"/><img src="faces_dataset/3500.png" width="256px"/><img src="celeba/8000.png" width="256px"/>
 
