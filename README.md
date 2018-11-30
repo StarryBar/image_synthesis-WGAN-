@@ -17,7 +17,7 @@ The network would generate fake images during the training process, they are sto
 
 Cifar10:　　　　　　　　　　　　　　Celeba:　　　　　　　　　　　　　Comic faces:
 
-<img src="mnist_dataset/3000.png" width="256px"/><img src="cifar10_dataset/60000.png" width="256px"/><img src="faces_dataset/3500.png" width="256px"/>
+<img src="cifar10_dataset/60000.png" width="256px"/><img src="faces_dataset/3500.png" width="256px"/><img src="celeba/8000.png" width="256px"/>
 
 ## References
 WGAN-GP https://zhuanlan.zhihu.com/p/25071913  
