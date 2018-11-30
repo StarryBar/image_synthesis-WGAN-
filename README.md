@@ -1,20 +1,21 @@
 ## NYU DS-3001 Machine Learning Project.
-#Topic# Image_synthesis with DCGAN,  WGAN-GP
+#Topic# Image_synthesis with DCGAN,  WGAN-GP, SAGAN
 
-Collaborator: Lifan Wang,  Guanhua Chen,  Kuan Chen  
+Collaborator: Lifan Wang,  Guanhua Chen,  Kuan Chen , Yueping Wang
 
 ## Instruction
-This project aimed to use cifar10, mnist, customized dataset to generate new images
+This project aimed to use cifar10, celeba, customized dataset to generate new images
  
 Load the *.ipython file within each folder and reproduce the result. 
 
 ## Datasets
 We built our WGAN model from MINST, CIFAR-10, Comic faces dataset.   
 
+
 ## Results
 The network would generate fake images during the training process, they are stored in the folders.  
 
-Mnist:　　　　　　　　　　　　　Cifar10:　　　　　　　　　　　　　Comic faces:
+Cifar10:　　　　　　　　　　　　　　Celeba:　　　　　　　　　　　　　Comic faces:
 
 <img src="mnist_dataset/3000.png" width="256px"/><img src="cifar10_dataset/60000.png" width="256px"/><img src="faces_dataset/3500.png" width="256px"/>
 
